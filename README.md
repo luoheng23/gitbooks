@@ -1,2 +1,2 @@
 # gitbooks
-my gitbooks
+my gitbooks and blog
