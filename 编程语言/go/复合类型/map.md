@@ -2,7 +2,7 @@
 
 哈希的键必须可以比较。
 
-```
+```go
 var ages map[string]int // map[K]V
 ages := make(map[string]int)
 ages := map[string]int{
